@@ -3,12 +3,12 @@
 
 
 
-## Tools & Tech I use
+### Tools & Tech I use:
 [![My Skills](https://skillicons.dev/icons?i=py,r,cpp,tensorflow,sklearn,anaconda,fastapi,figma,git,gcp,postgres,mysql)](https://skillicons.dev)
 
 
 
-## 📊 What have I d so far:
+### 📊 What I've done so far:
 ![](https://github-readme-stats.vercel.app/api?username=prathamr1&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=prathamr1&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamr1&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
