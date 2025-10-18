@@ -1,20 +1,18 @@
-## Hi, I'm Prathamesh
-
-🤖 AI & DS Engineering Student at SPPU.</br>
-🌐 Learning by creating and developing things.</br>
-🔘 Just started and it's a long way to go.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Electrolize&pause=1000&color=FFFFFF&center=false&width=435&lines=Hello+there👋!+I'm+Prathamesh;Diving+deep+into+the+world+of+Data+!)](https://git.io/typing-svg)
 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prathamesh-Renuse) 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
-# 📊 GitHub Stats:
+## Tools & Tech I use
+[![My Skills](https://skillicons.dev/icons?i=py,r,cpp,tensorflow,sklearn,anaconda,fastapi,figma,git,gcp,postgres,mysql)](https://skillicons.dev)
+
+
+
+## 📊 What have I d so far:
 ![](https://github-readme-stats.vercel.app/api?username=prathamr1&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=prathamr1&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamr1&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prathamr1&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prathamesh-renuse/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@prathamrenuse55) 
+
