@@ -2,10 +2,10 @@
 
 
 ### 🚧 What I'm Working On
-- 🚀 **Learning by Building**: I believe in growing through real-world experimentation. My repositories reflect my journey of learning and creating.
-- 📊 **Projects with Purpose**: From stock price trackers to intuitive dashboards, I aim to build tools that solve real problems and make analytics accessible.
-- 🧠 **Exploring AI & ML**: Diving into machine learning, predictive modeling, and intelligent systems to sharpen my technical edge.
-- 🌱 **Always Growing**: Every commit is a step forward in my data science journey.
+- **Learning by Building**: I believe in growing through real-world experimentation. My repositories reflect my journey of learning and creating.
+- **Projects with Purpose**: From stock price trackers to intuitive dashboards, I aim to build tools that solve real problems and make analytics accessible.
+- **Exploring AI & ML**: Diving into machine learning, predictive modeling, and intelligent systems to sharpen my technical edge.
+- **Always Growing**: Every commit is a step forward in my data science journey.
 
 <br/>
 
