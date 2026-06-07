@@ -1,13 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Electrolize&pause=1000&color=FFFFFF&center=false&width=435&lines=Hello+there👋!+I'm+Prathamesh;Diving+deep+into+the+world+of+Data+!)](https://git.io/typing-svg)
 
-
-### 🚧 What I'm Working On
-- **Learning by Building**: I believe in growing through real-world experimentation. My repositories reflect my journey of learning and creating.
-- **Projects with Purpose**: From stock price trackers to intuitive dashboards, I aim to build tools that solve real problems and make analytics accessible.
-- **Exploring AI & ML**: Diving into machine learning, predictive modeling, and intelligent systems to sharpen my technical edge.
-- **Always Growing**: Every commit is a step forward in my data science journey.
+- **AI & DS Engineer** / **Tech-Enthusiat**
+- Interested in **Predictive modeling**, **Data analytics**, **IoT** & **Agentic AI**
+- Currently exploring Deep learning and AI Agents.
 
 <br/>
+
+![](https://komarev.com/ghpvc/?username=prathamr1&color=orange)
 
 ### ⚙️ Tools & Tech stack in progress
 
@@ -23,14 +22,6 @@
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 
-<hr>
-
-### 📈 What I've done so far:
-![](https://github-readme-stats.vercel.app/api?username=prathamr1&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=prathamr1&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathamr1&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<hr>
 
 ### 📧 Connect with Me
 
